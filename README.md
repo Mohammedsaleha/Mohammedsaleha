@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammedsaleha
 - 👀 I’m interested in Coding, Sports
-- 🌱 I’m currently pursuing Intergrated Course in Software Engineering At Vellore Institute of Technology (VIT
+- 🌱 I’m currently pursuing Intergrated Course in Software Engineering At Vellore Institute of Technology (VIT)
 - 📫 How to reach me at mohammedsohail506@gmail.com
 
 <!---
